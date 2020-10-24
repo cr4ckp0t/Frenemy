@@ -2,7 +2,7 @@
 ## Title: Frenemy
 ## Notes: A customizable view of friends and guildmates.
 ## Author: Torhal, Crackpotx, MMOSimca
-## Version: 9.0.1
+## Version: 9.0.0
 ## OptionalDeps: Ace3, CallbackHandler-1.0, HereBeDragons, LibDBIcon-1.0, LibDialog-1.0, LibQTip-1.0, LibTextDump-1.0
 ## SavedVariables: FrenemyDB
 
