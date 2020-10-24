@@ -1,0 +1,28 @@
+tag 2596fba5806e0520910df0692bbc26ffe0061917 8.0.1.2
+Author:	James D. Callahan III <jcallahan@curse.com>
+Date:	Sat Sep 15 22:45:25 2018 -0500
+
+commit 5c14229fc442ffece53314be0b0a4a53efaefbc9
+Author: James D. Callahan III <jcallahan@curse.com>
+Date:   Sat Sep 15 22:44:31 2018 -0500
+
+    Add BNET_CLIENT_COD to CLIENT_SORT_ORDERS.
+
+commit f880e13fcd665e07f189219579dc04db36d6219e
+Author: James D. Callahan III <jcallahan@curse.com>
+Date:   Sat Jul 21 02:41:22 2018 -0500
+
+    Remove LibDataBroker from the ToC - it's in the embeds file now.
+
+commit a7a8137f22df887817d79d2015291cfe76ae40d6
+Author: James D. Callahan III <jcallahan@curse.com>
+Date:   Sat Jul 21 02:34:53 2018 -0500
+
+    Turn off -nolib packaging.
+
+commit db38c29f7f6c6942afb1fbd9e8ce6a010beb49e2
+Author: James D. Callahan III <jcallahan@curse.com>
+Date:   Sat Jul 21 02:33:19 2018 -0500
+
+    Disable loading of libraries during development, since these won't exist at that point and the WoW 8.x client now complains about this.
+
